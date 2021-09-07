@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently working full-time with awesome peeps at **Syeta Labs**
 - ⚙️ I use daily: `.dart`, `.js`, `.ts`, `.svg`, `.json`, `.yml` 
-- 🌱 Learning more about and studying: **Open Source, React, Blockchain**
+- 🌱 Learning more about and studying: **Machine Learning, Game Theory, Blockchain**
 - 💬 Ping me about: **Mobile Develoment**, **Flutter**, **Node JS**
 - 📫 Reach me asap: danushka@syetalabs.io
 - 💜 Interests:AI & ML, cryptocurrency enthusiast
